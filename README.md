@@ -14,3 +14,5 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+Виконав Цюрпіта Юрій
